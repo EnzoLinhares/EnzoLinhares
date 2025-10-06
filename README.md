@@ -10,4 +10,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enzolinhares&show_icons=true&title_color=e5e907&text_color=1fa01c&bg_color=000000&hide_border=true&locale=en" alt="enzolinhares" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enzolinhares&" alt="enzolinhares" /></p>
+<img width="191" height="281" alt="image" src="https://github.com/user-attachments/assets/9815ac8e-23ac-4be1-bb82-b41417de69ec" />
+<img width="165" height="177" alt="image" src="https://github.com/user-attachments/assets/643cab8f-4625-430c-84cf-fb98b09b9195" />
